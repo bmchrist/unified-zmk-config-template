@@ -18,3 +18,8 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:
+  - board: corneish_zen_v2_left
+  - board: corneish_zen_v2_right
+  - board: corneish_zen_v2_left
+    shield: settings_reset
